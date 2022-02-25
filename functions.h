@@ -24,3 +24,4 @@ void make_test_cases(int*, char**, int);
 void display_test_cases(int*, char**, int);
 
 #endif /* STACKS_FUNCTIONS_H */
+
